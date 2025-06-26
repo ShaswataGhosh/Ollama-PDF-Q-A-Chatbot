@@ -1,5 +1,3 @@
-Based on your project files (`Project_01.py`, `stream.py`), here's a suitable and clear description for your README file:
-
 ---
 
 # 📚 LLM-Powered PDF Q\&A App
